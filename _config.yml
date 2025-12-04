@@ -20,7 +20,7 @@ title                    : "Cliff's Blog"
 title_separator          : "-"
 subtitle                 : "Data Visualisation - The language of information"
 name                     : "Cliff Senkbeil"
-description              : "A collection of post on data visualisation, science and other interests and passions."
+description              : "A collection of post on data visualisation, science and other interests."
 url                      : "https://www.cliffsenkbeil.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "csenkbeil/csenkbeil.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Cliff Senkbeil"
   avatar           : "/assets/images/cliff400x400.jpg"
-  bio              : "Software, algorithms and **visualisations**. Building **awesome** things!"
+  bio              : "Software, algorithms and **visualisations**. Building things!"
   location         : "Australia"
   email            :
   links:
